@@ -1,0 +1,9 @@
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\bin\Debug\Share Your Copy.exe.config
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\obj\Debug\Share_Your_Copy.Form1.resources
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\obj\Debug\Share_Your_Copy.Properties.Resources.resources
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\obj\Debug\Share Your Copy.csproj.GenerateResource.Cache
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\bin\Debug\Share Your Copy.exe
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\bin\Debug\Share Your Copy.pdb
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\obj\Debug\Share Your Copy.exe
+c:\users\gurkan\documents\visual studio 2013\Projects\Share Your Copy\Share Your Copy\obj\Debug\Share Your Copy.pdb
+C:\Users\Gurkan\Documents\Visual Studio 2013\Projects\Share Your Copy\Share Your Copy\obj\Debug\Share Your Copy.csprojAssemblyReference.cache
